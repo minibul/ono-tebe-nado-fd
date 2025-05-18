@@ -13,7 +13,7 @@
 .header__links-list {
   display: flex;
   font-size: 18px;
-  gap: 25px;
+  gap: 34px;
   list-style: circle;
 }
 
@@ -34,7 +34,7 @@
 .header__address {
   font-size: 18px;
   justify-self: end;
-  margin-right: 40px;
+  margin-right: 37px;
 }
 
 .address a {
@@ -224,7 +224,7 @@
 }
 
 .about__text {
-  line-height: 1.5;
+  line-height: 1.2;
   font-size: 20px;
   margin: 40px 0 0 0;
 }
@@ -240,9 +240,16 @@
   padding: 180px 50px 90px;
 }
 
+.footer__address {
+  font-size: 18px;
+  justify-self: end;
+  margin-right: 37px;
+}
+
 .footer__menu-link {
   text-decoration: underline;
   text-underline-offset: 4px;
+  font-size: 18px;
 }
 
 .footer__menu {
