@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 92px 50px 103px 50px;
+  padding: 92px 50px 97px 49px;
 }
 
 .header__link {
@@ -48,7 +48,7 @@
   background-size: cover;
   background-position: center;
   color: #fff;
-  padding: 165px 50px 50px 50px;
+  padding: 171px 50px 50px 50px;
 }
 
 .overlay {
@@ -76,12 +76,12 @@
 
 .aligned-text_center {
   text-align: center;
-  padding: 5px 0px 0px 28px;
+  padding: 5px 0 0 28px;
 }
 
 .aligned-text_right {
   text-align: right;
-  padding: 5px 0px 0px 28px;
+  padding: 5px 0 0 28px;
 }
 
 .no-letter-spacing {
@@ -191,7 +191,7 @@
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 25px;
-  padding: 120px 24px 0;
+  padding: 120px 24px 0 8px;
 }
 
 .about__logo {
@@ -202,7 +202,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 35px 45px;
+  margin: 34px 0 0 60px;
 }
 
 .about__logo-image {
@@ -213,7 +213,7 @@
 .about__title {
   font-size: 40px;
   text-transform: uppercase;
-  margin: 78px 0 0 -10px;
+  margin: 78px 0 0 0;
 }
 
 .about__column_right {
@@ -230,7 +230,7 @@
 .about__text {
   line-height: 1.2;
   font-size: 20px;
-  margin: 42px 0 0 -10px;
+  margin: 42px 25px 0 0;
 }
 
 .about__text p + p {
